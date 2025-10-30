@@ -1,6 +1,6 @@
 # 📈 My Next.js 16 App (Stock Market Monitoring)
 
-A modern app to help you keep up with the current trends in the stock market. Built with Next.js 16, fully Dockerized for development and production, with hot reload enabled via Docker's new Compose Watch feature. This setup enables a hands-off developer workflow: edit code locally, see changes instantly in the container — no rebuilds required.
+A modern app to help you keep up with the current trends in the stock market. Built with Next.js 16, fully Dockerized for development and production.
 
 [Use Compose Watch Documentation](https://docs.docker.com/compose/how-tos/file-watch)
 
@@ -15,13 +15,13 @@ A modern app to help you keep up with the current trends in the stock market. Bu
 
 ## 🔨 Tech Stack
 
-| Layer          | Technology                             |
-|----------------|----------------------------------------|
-| Frontend       | Next.js 16, React 18, Tailwind CSS, Shadcn     |
-| Backend        | Node.js 20, Next.js API routes         |
-| Containerization | Docker         |
+| Layer            | Technology                                        |
+| ---------------- | ------------------------------------------------- |
+| Frontend         | Next.js 16, React 18, Tailwind CSS, Shadcn        |
+| Backend          | Node.js 20, Next.js API routes                    |
+| Containerization | Docker                                            |
 | Security         | Better Auth (TypeScript authentication framework) |
-| Automation       | Inngest (serverless workflows)         |
+| Automation       | Inngest (serverless workflows)                    |
 
 ## 🚀 Quick Start
 
